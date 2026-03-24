@@ -17,19 +17,19 @@ Some of the business questions addressed include:
 
 - Which region generates the highest profit?
   
-  ![image]()
+  ![image](https://github.com/reddyraniyarrinti-205/Data-Analytics-Portfolio/blob/4e794100bc55952ba719be53792ab7e55bf406e7/result_pics/Sales%20by%20Region.png)
   
 - Which product category contributes the most sales?
 
-   ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/68a6deadb8bafaed42eb773f023239624586afd7/Result_pics/Top%205%20Products%20by%20Sales.png)
+   ![image](https://github.com/reddyraniyarrinti-205/Data-Analytics-Portfolio/blob/4e794100bc55952ba719be53792ab7e55bf406e7/result_pics/Top%205%20Products%20by%20Sales.png)
   
 - What is the total number of orders?
   
-  ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/de163ca024333d2567d7241d4686e585e9d1f0df/Result_pics/total_orders.png)
+  ![image](https://github.com/reddyraniyarrinti-205/Data-Analytics-Portfolio/blob/4e794100bc55952ba719be53792ab7e55bf406e7/result_pics/total_orders.png)
   
 - What is the total sales and profit generated?
   
-  ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/fa4cc8710eb726f91c72c33e7a5aa80ed35ab8e6/Result_pics/Descriptiv_stat.png)
+  ![image](https://github.com/reddyraniyarrinti-205/Data-Analytics-Portfolio/blob/520a228de7e6a5f4cfaacae59285a8ad6e61ecdf/result_pics/Descriptiv_stat.png)
 
 
 The SQL analysis helps transform raw data into meaningful business insights.
@@ -61,7 +61,7 @@ The dashboard includes the following visualizations:
 - Year-wise Sales Trend
 - Category-wise Sales Distribution
 
-![image alt](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/25f3a41009913a7dad6a7b82f4bb7d8516d2f858/Static_Dashboard.png)
+![image alt](https://github.com/reddyraniyarrinti-205/Data-Analytics-Portfolio/blob/4e794100bc55952ba719be53792ab7e55bf406e7/result_pics/Static_Dashboard.png)
 
 ## Key Insights
 
