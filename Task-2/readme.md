@@ -8,7 +8,7 @@ In this stage, the dataset was explored to understand its structure and statisti
 
 Univariate analysis was performed to study individual variables and their distributions using visualizations such as bar charts and histograms. This helped identify patterns in sales, profit, and product categories.
 
-![image]()
+![image](https://github.com/reddyraniyarrinti-205/Data-Analytics-Portfolio/blob/520a228de7e6a5f4cfaacae59285a8ad6e61ecdf/result_pics/Descriptiv_stat.png)
 
 ## 2. SQL for Business Questions
 SQL queries were used to answer important business questions derived from the dataset. Aggregation, filtering, and grouping techniques were applied to extract meaningful insights from the data.
@@ -17,7 +17,7 @@ Some of the business questions addressed include:
 
 - Which region generates the highest profit?
   
-  ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/f0b5346498286af76455d3625154ad88badb17af/Result_pics/Sales%20by%20Region.png)
+  ![image]()
   
 - Which product category contributes the most sales?
 
